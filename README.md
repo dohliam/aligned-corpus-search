@@ -8,6 +8,12 @@ This tool has been designed specifically for the purpose of searching through CJ
 
 If you're wondering what benefits this might have over just grepping a bunch of files, the answer is really just "alignment" (hence the name) as well as default searching through files in the `data` directory.
 
+Sample output:
+
+![](https://user-images.githubusercontent.com/9295750/41930469-fc7d50de-792f-11e8-9292-1ac41b06932d.png)
+
+![](https://user-images.githubusercontent.com/9295750/41930472-002c095a-7930-11e8-9714-abde3bab2fff.png)
+
 ## Usage
 
 The easiest way to use Aligned Corpus Search is just to put some data into the `data` folder (one or more text files of any sort), and issue the following command, replacing `[KEYWORD]` with the search term(s) of your choice:
